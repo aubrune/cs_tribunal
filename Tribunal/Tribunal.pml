@@ -5,10 +5,11 @@
         <BehaviorDescription name="behavior" src="behavior_1" xar="behavior.xar" />
     </BehaviorDescriptions>
     <Dialogs />
-    <Resources />
+    <Resources>
+        <File name="translation_en_US" src="translations/translation_en_US.ts" />
+        <File name="data" src="behavior_1/data.json" />
+        <File name="Beep18" src="behavior_1/Beep18.wav" />
+    </Resources>
     <Topics />
     <IgnoredPaths />
-    <Translations auto-fill="en_US">
-        <Translation name="translation_en_US" src="translations/translation_en_US.ts" language="en_US" />
-    </Translations>
 </Package>
