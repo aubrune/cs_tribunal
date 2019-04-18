@@ -9,6 +9,7 @@
         <File name="translation_en_US" src="translations/translation_en_US.ts" />
         <File name="data" src="behavior_1/data.json" />
         <File name="Beep18" src="behavior_1/Beep18.wav" />
+        <File name="test" src="html/test.png" />
     </Resources>
     <Topics />
     <IgnoredPaths />
