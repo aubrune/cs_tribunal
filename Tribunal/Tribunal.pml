@@ -11,6 +11,7 @@
         <File name="Beep18" src="behavior_1/Beep18.wav" />
         <File name="test" src="html/test.png" />
         <File name="9764" src="behavior_1/9764.mp3" />
+        <File name="black" src="html/black.png" />
     </Resources>
     <Topics />
     <IgnoredPaths />
