@@ -12,6 +12,13 @@
         <File name="test" src="html/test.png" />
         <File name="9764" src="behavior_1/9764.mp3" />
         <File name="black" src="html/black.png" />
+        <File name="bug5" src="behavior_1/bug5.mp3" />
+        <File name="bug6" src="behavior_1/bug6.mp3" />
+        <File name="bug1" src="behavior_1/bug1.mp3" />
+        <File name="bug3" src="behavior_1/bug3.mp3" />
+        <File name="avocat" src="html/avocat.jpg" />
+        <File name="np3" src="html/np3.png" />
+        <File name="data (copie)" src="behavior_1/data (copie).json" />
     </Resources>
     <Topics />
     <IgnoredPaths />
